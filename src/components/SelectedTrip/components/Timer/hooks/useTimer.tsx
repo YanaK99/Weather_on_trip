@@ -2,7 +2,8 @@ import { useEffect, useState } from "react";
 
 export const useTimer = (deadline: string) => {
   function getTimeRemaining(endtime: string) {
-    const t = Date.parse(endtime) - Date.parse(new Date()),
+    const currentTime = new Date();
+    const t = Date.parse(endtime) - currentTime.getTime(),
       days = Math.floor(t / (1000 * 60 * 60 * 24)),
       seconds = Math.floor((t / 1000) % 60),
       minutes = Math.floor((t / 1000 / 60) % 60),
@@ -10,10 +11,10 @@ export const useTimer = (deadline: string) => {
 
     return {
       total: t,
-      days: days,
-      hours: hours,
-      minutes: minutes,
-      seconds: seconds,
+      days,
+      hours,
+      minutes,
+      seconds,
     };
   }
 
