@@ -1,0 +1,20 @@
+.wrapper {
+  padding: 40px 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.error {
+	color: red;
+	margin: 5px;
+}

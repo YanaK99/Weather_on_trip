@@ -1,0 +1,33 @@
+.wrapper {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+  opacity: 0.5;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  transition: all 0.3s;
+}
+
+.wrapper:hover {
+  opacity: 0.8;
+}
+
+.wrapper img {
+  height: 20px;
+  width: 20px;
+}
+
+.arrowLeft {
+  left: 10px;
+}
+
+.arrowRight {
+  right: 10px;
+}

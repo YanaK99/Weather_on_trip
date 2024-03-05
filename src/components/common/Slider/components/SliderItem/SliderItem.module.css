@@ -1,0 +1,28 @@
+.wrapper {
+  height: 100%;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper img {
+  width: 150px;
+  height: 150px;
+}
+
+.content {
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 35px;
+}
+
+.contentDate {
+  color: darkgray;
+  font-weight: 300;
+}
+
+.hyphen {
+  padding: 0 3px;
+}

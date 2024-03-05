@@ -1,0 +1,32 @@
+.wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modalBlock {
+  width: 30%;
+  background-color: white;
+}
+
+.headerBlock {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  border-bottom: 1px solid darkgray;
+}
+
+.buttonCLose {
+  border: none;
+  font-size: 20px;
+  background-color: #ffffff;
+  cursor: pointer;
+}

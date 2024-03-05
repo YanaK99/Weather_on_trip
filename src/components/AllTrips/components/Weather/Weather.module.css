@@ -1,0 +1,11 @@
+.wrapper {
+  padding-top: 20px;
+}
+
+.block {
+  height: 120px;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+overflow-x: hidden;
+}

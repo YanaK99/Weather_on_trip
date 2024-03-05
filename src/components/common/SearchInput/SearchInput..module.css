@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  background-color: rgb(238, 238, 238);
+  border-radius: 8px;
+  padding: 0 10px;
+  height: 30px;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+
+.wrapper input {
+  font-size: 10px;
+}
+
+.wrapper img {
+  height: 60%;
+}

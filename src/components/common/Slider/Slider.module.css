@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  width: 100%;
+  position: relative;
+}
+
+.cards {
+  height: 100%;
+  display: flex;
+  gap: 30px;
+}
+
+.cardsWrapper {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+}
+
+.buttonWrapper {
+  margin-left: 30px;
+}

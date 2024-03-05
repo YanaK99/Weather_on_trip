@@ -1,0 +1,20 @@
+.button {
+  height: 150px;
+  width: 150px;
+  background-color: rgb(238, 238, 238);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+  transition: all 0.3s;
+  border: none;
+}
+
+.button:hover {
+  background-color: rgb(214, 211, 211);
+}
+
+.buttonText {
+  font-weight: 500;
+}

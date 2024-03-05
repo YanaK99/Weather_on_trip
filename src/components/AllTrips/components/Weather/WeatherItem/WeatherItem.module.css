@@ -1,0 +1,23 @@
+.wrapper {
+  height: 100%;
+  width: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 30px;
+}
+
+.wrapper img {
+  width: 100%;
+}
+
+.contentDay {
+  color: darkgray;
+  font-weight: 300;
+}
+
+.contentTemperature {
+  color: black;
+  font-weight: 600;
+}

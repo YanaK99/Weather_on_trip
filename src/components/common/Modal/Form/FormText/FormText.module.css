@@ -1,0 +1,24 @@
+.formGroup {
+  display: flex;
+  flex-direction: column;
+}
+
+.redStar {
+  color: red;
+  padding: 3px;
+}
+
+.labelText {
+  font-size: 15px;
+  padding-bottom: 5px;
+}
+
+.selectText {
+  border: 1px solid rgb(206, 205, 205);
+  width: 100%;
+  padding: 8px 5px;
+}
+
+.optionText {
+  color: black;
+}

@@ -1,0 +1,33 @@
+.promotionTimer {
+  width: 100%;
+  position: absolute;
+  bottom: 20%;
+  height: 40px;
+}
+
+.timer {
+  display: flex;
+  position: absolute;
+  right: 10%;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.timerBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: rgba(120, 117, 117, 0.724);
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 300;
+  color: #f2f2f2;
+  text-transform: uppercase;
+}
+
+.timerItem {
+  font-size: 25px;
+  font-weight: 700;
+  color: #f2f2f2;
+}

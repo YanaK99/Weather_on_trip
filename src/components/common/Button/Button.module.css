@@ -1,0 +1,14 @@
+.formButton {
+  padding: 7px;
+  border: 1px solid darkgray;
+}
+
+.blue {
+  background-color: rgb(87, 87, 227);
+  color: white;
+}
+
+.white {
+  background-color: white;
+  color: darkgray;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Berlin",
+    "startDate": "2024-04-11",
+    "endDate": "2024-04-16",
+    "image": "https://www.deutschland.de/sites/default/files/media/image/T%C3%BCD_Politisches_Zentrum-Berlin_Reichstagsgeb%C3%A4ude.jpg"
+  },
+  {
+    "name": "Praga",
+    "startDate": "2024-03-11",
+    "endDate": "2024-03-18",
+    "image": "https://feerie.com.ua/sites/default/files/styles/for_blog/public/2019-03/prague-1.jpg?itok=ZLJUqAev"
+  },
+  {
+    "name": "Phuket",
+    "startDate": "2024-03-11",
+    "endDate": "2024-03-17",
+    "image": "https://www.travelandleisure.com/thmb/RQ3JmT8V2y2fhwr7NY0cgUumcCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/phuket-thailand-karst-formation-phuket0327-92bd3ce9266148dba74cba5e36c711e2.jpg"
+  },
+  {
+    "name": "Seoul",
+    "startDate": "2024-04-10",
+    "endDate": "2024-04-14",
+    "image": "https://revistahigienistas.com/wp-content/uploads/2023/07/Seul-portada.jpg"
+  },
+  {
+    "name": "New York",
+    "startDate": "2024-03-09",
+    "endDate": "2024-03-15",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1200px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg"
+  },
+  {
+    "name": "Tbilisi",
+    "startDate": "2024-04-09",
+    "endDate": "2024-04-18",
+    "image": "https://storage.georgia.travel/images/tbilisi-capital-of-georgia-country.webp"
+  },
+  {
+    "name": "Astana",
+    "startDate": "2024-03-12",
+    "endDate": "2024-03-19",
+    "image": "https://cdn.britannica.com/65/89765-050-50F5F6C0/Nursultan-Kazakhstan.jpg"
+  },
+  {
+    "name": "Truskavets",
+    "startDate": "2024-03-11",
+    "endDate": "2024-03-17",
+    "image": "https://san-shahtar.com/wp-content/uploads/2017/07/truskavec_11.jpg"
+  },
+  {
+    "name": "Warshawa",
+    "startDate": "2024-03-17",
+    "endDate": "2024-03-24",
+    "image": "https://турпоиск.kiev.ua/images/foto-blog/Warsawa.jpg"
+  },
+  {
+    "name": "Zakopane",
+    "startDate": "2024-04-19",
+    "endDate": "2024-04-23",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Zakopane_at_night.jpg"
+  }
+]
